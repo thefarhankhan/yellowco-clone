@@ -7,4 +7,4 @@ Below is the link to the original website:
 https://yellowco.co/
 
 Here is the cloned version:
-https://fk835.github.io/yellowco-clone/
+https://thefarhankhan.github.io/yellowco-clone/
